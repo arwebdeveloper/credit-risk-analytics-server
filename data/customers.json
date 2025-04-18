@@ -1,0 +1,102 @@
+[
+  {
+    "customerId": "CUST1001",
+    "name": "Alice Johnson",
+    "monthlyIncome": 6200,
+    "monthlyExpenses": 3500,
+    "creditScore": 710,
+    "outstandingLoans": 15000,
+    "loanRepaymentHistory": [
+      1,
+      0,
+      1,
+      1,
+      1,
+      1,
+      0,
+      1
+    ],
+    "accountBalance": 12500,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1002",
+    "name": "Bob Smith",
+    "monthlyIncome": 4800,
+    "monthlyExpenses": 2800,
+    "creditScore": 640,
+    "outstandingLoans": 20000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      0,
+      0,
+      1,
+      0,
+      0
+    ],
+    "accountBalance": 7300,
+    "status": "Approved"
+  },
+  {
+    "customerId": "CUST1003",
+    "name": "Charlie Brown",
+    "monthlyIncome": 7500,
+    "monthlyExpenses": 4200,
+    "creditScore": 780,
+    "outstandingLoans": 8000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1
+    ],
+    "accountBalance": 25000,
+    "status": "Review"
+  },
+  {
+    "customerId": "CUST1004",
+    "name": "Diana Prince",
+    "monthlyIncome": 5300,
+    "monthlyExpenses": 3800,
+    "creditScore": 620,
+    "outstandingLoans": 30000,
+    "loanRepaymentHistory": [
+      1,
+      0,
+      0,
+      1,
+      0,
+      1,
+      0,
+      1
+    ],
+    "accountBalance": 4500,
+    "status": "Rejected"
+  },
+  {
+    "customerId": "CUST1005",
+    "name": "Edward Norton",
+    "monthlyIncome": 9200,
+    "monthlyExpenses": 5100,
+    "creditScore": 750,
+    "outstandingLoans": 22000,
+    "loanRepaymentHistory": [
+      1,
+      1,
+      1,
+      1,
+      0,
+      1,
+      1,
+      1
+    ],
+    "accountBalance": 18000,
+    "status": "Approved"
+  }
+]
